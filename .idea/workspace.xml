@@ -16,8 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29fb2a5e-118b-4d4f-b3c8-fb9fddd0807f" name="Default Changelist" comment="文件整理">
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch1/exe1_1.go" afterDir="false" />
+    <list default="true" id="29fb2a5e-118b-4d4f-b3c8-fb9fddd0807f" name="Default Changelist" comment="测试文件是否建立">
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch1/explain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_learning/ch1/exe1_1.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +124,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test git push" />
     <MESSAGE value="文件整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件整理" />
+    <MESSAGE value="测试文件是否建立" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试文件是否建立" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1601797561572">
@@ -153,9 +156,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601797569494" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601973478235">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601973664442">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601973478235" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601973664442" />
   </component>
 </project>
