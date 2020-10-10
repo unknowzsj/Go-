@@ -16,21 +16,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29fb2a5e-118b-4d4f-b3c8-fb9fddd0807f" name="Default Changelist" comment="简单说明">
-      <change afterPath="$PROJECT_DIR$/basic_learning/Go_Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch2/1/exe2_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch2/2/exe2_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch2/3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/1/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/1/out.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/4/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gopl.io/ch1/lissajous/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="29fb2a5e-118b-4d4f-b3c8-fb9fddd0807f" name="Default Changelist" comment="2020.10.07学习成果">
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/10/comma.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learning/ch3/6/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_learning/ch2/exe2_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gopl.io" beforeDir="false" afterPath="$PROJECT_DIR$/src/gopl.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_learning/Go_Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic_learning/Go_Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_learning/ch3/4/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/basic_learning/ch3/4/main.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <recent name="C:\Users\unknowzsj\go_workspace\src\awesomeProject\basic_learning\ch6" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build gopl.io/ch3/surface">
+  <component name="RunManager" selected="Go Build.go build awesomeProject/basic_learning/ch3/10">
     <configuration name="go build awesomeProject/basic_learning" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -104,6 +103,15 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build awesomeProject/basic_learning/ch3/10" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/basic_learning/ch3/10/comma.go" />
+      <package value="awesomeProject/basic_learning/ch3/10" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build gopl.io/ch3/surface" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -115,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build awesomeProject/basic_learning/ch3/10" />
         <item itemvalue="Go Build.go build gopl.io/ch3/surface" />
         <item itemvalue="Go Build.go build awesomeProject/basic_learning/ch2/2_2" />
         <item itemvalue="Go Build.go build awesomeProject/basic_learning" />
@@ -160,7 +169,8 @@
     <MESSAGE value="文件整理" />
     <MESSAGE value="测试文件是否建立" />
     <MESSAGE value="简单说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单说明" />
+    <MESSAGE value="2020.10.07学习成果" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.10.07学习成果" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1898" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602053203967">
@@ -171,26 +181,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601797561572" />
-    <state width="1557" height="234" key="GridCell.Tab.0.bottom" timestamp="1602056688581">
-      <screen x="1366" y="0" width="1600" height="900" />
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601965290965" />
-    <state width="1557" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602056688581" />
-    <state width="1557" height="234" key="GridCell.Tab.0.center" timestamp="1602056688581">
-      <screen x="1366" y="0" width="1600" height="900" />
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.center" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601965290965" />
-    <state width="1557" height="234" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602056688581" />
-    <state width="1557" height="234" key="GridCell.Tab.0.left" timestamp="1602056688581">
-      <screen x="1366" y="0" width="1600" height="900" />
+    <state width="1323" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.left" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601965290965" />
-    <state width="1557" height="234" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602056688581" />
-    <state width="1557" height="234" key="GridCell.Tab.0.right" timestamp="1602056688581">
-      <screen x="1366" y="0" width="1600" height="900" />
+    <state width="1323" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
+    <state width="1323" height="190" key="GridCell.Tab.0.right" timestamp="1602323035173">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601965290965" />
-    <state width="1557" height="234" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602056688581" />
+    <state width="1323" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602323035173" />
+    <state width="1557" height="234" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065151651" />
     <state x="430" y="85" key="RollbackChangesDialog" timestamp="1601972500772">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -199,13 +209,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601797569494" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601975130657">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601975130657" />
-    <state x="1829" y="190" key="search.everywhere.popup" timestamp="1602039968079">
+    <state x="1688" y="137" key="Vcs.Push.Dialog.v2" timestamp="1602065076069">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1601975130657" />
+    <state x="1688" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602065076069" />
+    <state x="395" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1602321836968">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="395" y="162" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1602321836968" />
     <state x="1829" y="190" key="search.everywhere.popup/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1602039968079" />
   </component>
 </project>
